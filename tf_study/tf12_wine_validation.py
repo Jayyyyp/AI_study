@@ -62,3 +62,4 @@ print('걸린시간 : ', end_time)
 # 3. iris
 # 4. wine
 # =======> validation split 적용하기
+
